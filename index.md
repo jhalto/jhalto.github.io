@@ -13,7 +13,8 @@
 
 ---
 [Office Booking App](https://github.com/jhalto/office_booking)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/office_1.png?raw=true"/>
+<img src="images/office_2.png?raw=true"/>
 
 ---
 
