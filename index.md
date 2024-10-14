@@ -20,5 +20,5 @@
 [Notepad with AI](https://github.com/jhalto/notepad)
 <img src="images/notepad_1.png?raw=true"/>
 <img src="images/notepad_2.png?raw=true"/>
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
