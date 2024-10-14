@@ -12,7 +12,7 @@
 <img src="images/1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Office Booking App](https://github.com/jhalto/office_booking)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
