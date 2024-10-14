@@ -8,7 +8,7 @@
 <img src="images/sahayagi1.jpeg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Ambulance Service](https://github.com/jhalto/ambulance_service)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
