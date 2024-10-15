@@ -14,12 +14,12 @@
 
 [Office Booking App](https://github.com/jhalto/office_booking)
 
-<img src="images/office_1.png?raw=true" width="200" height="500"/>
-<img src="images/office_2.png?raw=true" width="200" height="500"/>
+<img src="images/office_1.png?raw=true" width="220" height="450"/>
+<img src="images/office_2.png?raw=true" width="220" height="450"/>
 
 [Notepad with AI](https://github.com/jhalto/notepad)
 
-<img src="images/notepad_1.png?raw=true" width="300" height="500"/>
-<img src="images/notepad_2.png?raw=true" width="300" height="500"/>
+<img src="images/notepad_1.png?raw=true" width="220" height="450"/>
+<img src="images/notepad_2.png?raw=true" width="220" height="450"/>
 
 <!-- Remove the above link if you don't want to attribute -->
