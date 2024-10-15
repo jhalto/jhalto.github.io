@@ -14,8 +14,8 @@
 
 [Office Booking App](https://github.com/jhalto/office_booking)
 
-<img src="images/office_1.png?raw=true" width="300" height="500"/>
-<img src="images/office_2.png?raw=true" width="300" height="500"/>
+<img src="images/office_1.png?raw=true" width="250" height="500"/>
+<img src="images/office_2.png?raw=true" width="250" height="500"/>
 
 [Notepad with AI](https://github.com/jhalto/notepad)
 
