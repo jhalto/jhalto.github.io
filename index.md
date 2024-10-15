@@ -1,24 +1,23 @@
 ## Portfolio
 
-
-### Mobile Application Development(flutter) 
+### Mobile Application Development (Flutter) 
 
 [Sahayagi Volunteer BD](https://github.com/jhalto/sahayagi)
 
-<img src="images/sahayagi1.jpeg?raw=true"/>
+<img src="images/sahayagi1.jpeg?raw=true" width="300" height="500"/>
 
 [Ambulance Service](https://github.com/jhalto/ambulance_service)
 
-<img src="images/1.png?raw=true"/>
+<img src="images/1.png?raw=true" width="300" height="500"/>
 
 [Office Booking App](https://github.com/jhalto/office_booking)
 
-<img src="images/office_1.png?raw=true"/>
-<img src="images/office_2.png?raw=true"/>
+<img src="images/office_1.png?raw=true" width="300" height="500"/>
+<img src="images/office_2.png?raw=true" width="300" height="500"/>
 
 [Notepad with AI](https://github.com/jhalto/notepad)
 
-<img src="images/notepad_1.png?raw=true"/>
-<img src="images/notepad_2.png?raw=true"/>
+<img src="images/notepad_1.png?raw=true" width="300" height="500"/>
+<img src="images/notepad_2.png?raw=true" width="300" height="500"/>
 
-<!-- Remove above link if you don't want to attibute -->
+<!-- Remove the above link if you don't want to attribute -->
