@@ -1,5 +1,5 @@
 title: "Zobayer Arman Nadim" # your name (or website title) here
-logo: '<img src="/images/196.jpg?raw=true" style="width:100px; height:100px;">' # your photo (or logo) here
+logo: "/images/196.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   *"Moment of inner freedom <br> when the mind is opened & the <br> infinite universe revealed <br> & the soul is left to wander <br> dazed & confus'd searching <br> here & there for teachers & friends."* 
   <br><br>
@@ -11,3 +11,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: 273258024 #
+img[src*="/images/196.jpg"] {
+  width: 150px;
+  height: 200px;
+}
