@@ -21,5 +21,14 @@
 
 <img src="images/notepad_1.png?raw=true" width="245" height="450"/>
 <img src="images/notepad_2.png?raw=true" width="245" height="450"/>
+[News App](https://github.com/jhalto/news_app)
+
+<img src="images/news_app_1.jpeg?raw=true" width="245" height="450"/>
+<img src="images/news_app_1.jpeg?raw=true" width="245" height="450"/>
+[News App](https://github.com/jhalto/music_app)
+
+<img src="images/music_app_1.jpeg?raw=true" width="245" height="450"/>
+<img src="images/music_app_2.jpeg?raw=true" width="245" height="450"/>
+
 
 <!-- Remove the above link if you don't want to attribute -->
