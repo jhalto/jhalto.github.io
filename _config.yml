@@ -1,7 +1,7 @@
 title: "Zobayer Arman Nadim" # your name (or website title) here
 logo: "/images/196.jpg?raw=true" # your photo (or logo) here
-description: >
-<br>
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
   <i>"Moment of inner freedom<br>
   when the mind is opened & the<br>
   infinite universe revealed<br>
@@ -9,9 +9,8 @@ description: >
   dazed & confus’d searching<br>
   here & there for teachers & friends."</i>
   <br>
+  <br>
   - <strong>Jim Morrison</strong>
-  <br><br>
-  - Jim Morrison 
   <br><br>
   <a href="https://www.linkedin.com/in/zobayer-arman-nadim-b6abb7202">View My LinkedIn Profile</a> 
   
