@@ -17,7 +17,7 @@
 
 <img src="images/notepad_1.jpeg?raw=true" width="245" height="450"/>
 <img src="images/notepad_2.jpeg?raw=true" width="245" height="450"/>
-...
+  <br>
 *Home                            Add Notes*
 <img src="images/notepad_3.jpeg?raw=true" width="245" height="450"/>
 <img src="images/notepad_4.jpeg?raw=true" width="245" height="450"/>
