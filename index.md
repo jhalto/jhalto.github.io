@@ -15,10 +15,10 @@
 
 [Notepad with AI](https://github.com/jhalto/notepad)
 
-<img src="images/notepad_1.jpeg?raw=true" width="245" height="450"/>
-<img src="images/notepad_2.jpeg?raw=true" width="245" height="450"/>
-<img src="images/notepad_2.jpeg?raw=true" width="245" height="450"/>
-<img src="images/notepad_2.jpeg?raw=true" width="245" height="450"/>
+<img src="images/notepad_1.jpeg?raw=true" width="150" height="350"/>
+<img src="images/notepad_2.jpeg?raw=true" width="150" height="350"/>
+<img src="images/notepad_3.jpeg?raw=true" width="150" height="450"/>
+<img src="images/notepad_4.jpeg?raw=true" width="150" height="450"/>
 
 [News App](https://github.com/jhalto/news_app)
 
