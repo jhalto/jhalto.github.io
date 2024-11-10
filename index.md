@@ -1,36 +1,54 @@
 ## Portfolio
 
-### Mobile Application Development (Flutter) 
+### Mobile Application Development (Flutter)
 
 ### Projects
 
 [Sahayagi Volunteer BD](https://github.com/jhalto/sahayagi)
 
-<img src="images/sahayagi1.jpeg?raw=true" width="245" height="450"/>
+![Sahayagi Volunteer BD - Screenshot 1](images/sahayagi1.jpeg?raw=true)
+*Volunteer management app for connecting volunteers with NGOs and community projects.*
+
+---
 
 [Office Booking App](https://github.com/jhalto/office_booking)
 
-<img src="images/office_1.png?raw=true" width="245" height="450"/>
-<img src="images/office_2.png?raw=true" width="245" height="450"/>
+![Office Booking App - Screenshot 1](images/office_1.png?raw=true)
+*Main interface for booking office spaces.*
+
+![Office Booking App - Screenshot 2](images/office_2.png?raw=true)
+*View office details including availability and pricing.*
+
+---
 
 [Notepad with AI](https://github.com/jhalto/notepad)
 
-<img src="images/notepad_1.jpeg?raw=true" width="245" height="450"/>
-<img src="images/notepad_2.jpeg?raw=true" width="245" height="450"/>
-<img src="images/notepad_3.jpeg?raw=true" width="245" height="450"/>
-<img src="images/notepad_4.jpeg?raw=true" width="245" height="450"/>
+![Notepad with AI - Screenshot 1](images/notepad_1.jpeg?raw=true)
+*AI-powered notepad with smart features for organizing notes.*
+
+![Notepad with AI - Screenshot 2](images/notepad_2.jpeg?raw=true)
+*Text editor with AI-suggested text improvements.*
+
+---
 
 [News App](https://github.com/jhalto/news_app)
 
-<img src="images/news_app_1.jpeg?raw=true" width="245" height="450"/>
-<img src="images/news_app_1.jpeg?raw=true" width="245" height="450"/>
+![News App - Screenshot 1](images/news_app_1.jpeg?raw=true)
+*Personalized news feed based on categories and regions.*
+
+---
+
 [Music App](https://github.com/jhalto/music_app)
 
-<img src="images/music_app_1.jpeg?raw=true" width="245" height="450"/>
-<img src="images/music_app_2.jpeg?raw=true" width="245" height="450"/>
+![Music App - Screenshot 1](images/music_app_1.jpeg?raw=true)
+*Interface for playing and managing local music files.*
+
+![Music App - Screenshot 2](images/music_app_2.jpeg?raw=true)
+*Options for managing playlists and song repeat modes.*
+
+---
 
 [Ambulance Service](https://github.com/jhalto/ambulance_service)
 
-<img src="images/1.png?raw=true" width="245" height="450"/>
-
-<!-- Remove the above link if you don't want to attribute -->
+![Ambulance Service - Screenshot 1](images/1.png?raw=true)
+*App for finding nearby ambulances during emergencies.*
