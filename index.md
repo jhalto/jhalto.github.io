@@ -21,16 +21,16 @@ In my leisure time, I love to code and listen to music. I sometimes play chess, 
 
 [Office Booking App](https://github.com/jhalto/office_booking)
 
-<img src="images/office_booking_1.png?raw=true" width="245" height="450"/>
-<img src="images/office_booking_2.png?raw=true" width="245" height="450"/>
-<img src="images/office_booking_3.png?raw=true" width="245" height="450"/>
-<img src="images/office_booking_4.png?raw=true" width="245" height="450"/>
-<img src="images/office_booking_5.png?raw=true" width="245" height="450"/>
-<img src="images/office_booking_6.png?raw=true" width="245" height="450"/>
-<img src="images/office_booking_7.png?raw=true" width="245" height="450"/>
-<img src="images/office_booking_8.png?raw=true" width="245" height="450"/>
-<img src="images/office_booking_9.png?raw=true" width="245" height="450"/>
-<img src="images/office_booking_10.png?raw=true" width="245" height="450"/>
+<img src="images/office_booking_1.jpeg?raw=true" width="245" height="450"/>
+<img src="images/office_booking_2.jpeg?raw=true" width="245" height="450"/>
+<img src="images/office_booking_3.jpeg?raw=true" width="245" height="450"/>
+<img src="images/office_booking_4.jpeg?raw=true" width="245" height="450"/>
+<img src="images/office_booking_5.jpeg?raw=true" width="245" height="450"/>
+<img src="images/office_booking_6.jpeg?raw=true" width="245" height="450"/>
+<img src="images/office_booking_7.jpeg?raw=true" width="245" height="450"/>
+<img src="images/office_booking_8.jpeg?raw=true" width="245" height="450"/>
+<img src="images/office_booking_9.jpeg?raw=true" width="245" height="450"/>
+<img src="images/office_booking_10.jpeg?raw=true" width="245" height="450"/>
 
 [Notepad with AI](https://github.com/jhalto/notepad)
 
