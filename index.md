@@ -1,3 +1,17 @@
+## About Me
+
+As a student of Computer Science, I’m eager to delve into the expansive field of mobile application development and Data Science. My goal is to participate in research and projects that have impactful results and help alleviate human burdens, even if a tiny portion, ultimately leaving a positive footprint on this world.
+
+In my leisure time, I love to code and listen to music. I sometimes play chess, badminton, and cricket.
+
+
+---
+
+### Thesis/Projects
+
+- **Zobayer Armana Nadim**, Md. Atif Ali. **Sahayagi Volunteer BD: A place where pupils can search and post for events and blood**.
+
+---
 ## Portfolio
 
 ### Mobile Application Development (Flutter) 
