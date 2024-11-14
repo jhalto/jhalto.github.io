@@ -12,9 +12,6 @@ In my leisure time, I love to code and listen to music. I sometimes play chess, 
 - **Zobayer Armana Nadim**, Md. Atif Ali. **Sahayagi Volunteer BD: A place where pupils can search and post for events and blood**.
 
 ---
-## Portfolio
-
-### Mobile Application Development (Flutter) 
 
 ### Projects
 
