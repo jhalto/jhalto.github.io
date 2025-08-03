@@ -17,8 +17,8 @@ In my leisure time, I love to code and listen to music. I sometimes play chess, 
 
 [BDTender]s
 
-<img src="images/bd_tender(1).png?raw=true" width="245" height="450"/>
-<img src="images/bd_tender(2).png?raw=true" width="245" height="450"/>
+<img src="images/bd_tender (1).png?raw=true" width="245" height="450"/>
+<img src="images/bd_tender (2).png?raw=true" width="245" height="450"/>
 
 [Sahayagi Volunteer BD](https://github.com/jhalto/sahayagi)
 
@@ -80,4 +80,4 @@ In my leisure time, I love to code and listen to music. I sometimes play chess, 
 <img src="images/1.png?raw=true" width="245" height="450"/>
 
 <!-- Remove the above link if you don't want to attribute -->
-how to add picture details under picture?
+
