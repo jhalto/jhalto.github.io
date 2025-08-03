@@ -15,7 +15,7 @@ In my leisure time, I love to code and listen to music. I sometimes play chess, 
 
 ### Projects
 
-[BDTender]s
+BDTender
 
 <img src="images/bd_tender (1).png?raw=true" width="245" height="450"/>
 <img src="images/bd_tender (2).png?raw=true" width="245" height="450"/>
