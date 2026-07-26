@@ -1,0 +1,9 @@
+title: "Zobayer Arman Nadim"
+description: "Cross-platform software engineer building web, desktop, mobile, and automation products."
+url: "https://jhalto.github.io"
+lang: "en"
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - LICENSE
