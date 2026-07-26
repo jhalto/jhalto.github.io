@@ -1,0 +1,87 @@
+---
+layout: default
+---
+
+<main id="main-content" class="case-study">
+  <header class="case-hero">
+    <div class="container">
+      <a class="case-back" href="{{ '/#work' | relative_url }}"><span>←</span> Back to selected work</a>
+      <div class="case-hero__grid">
+        <div>
+          <p class="section-index">{{ page.index }} / {{ page.platform }}</p>
+          <h1>{{ page.title }}</h1>
+          <p class="case-hero__lead">{{ page.summary }}</p>
+          <div class="case-actions">
+            {% if page.primary_url %}
+            <a class="button button--primary" href="{{ page.primary_url }}" target="_blank" rel="noopener">{{ page.primary_label }} <span>↗</span></a>
+            {% endif %}
+            {% if page.secondary_url %}
+            <a class="button button--ghost" href="{{ page.secondary_url }}" target="_blank" rel="noopener">{{ page.secondary_label }} <span>↗</span></a>
+            {% endif %}
+          </div>
+        </div>
+        <dl class="case-facts">
+          <div><dt>Platform</dt><dd>{{ page.platform }}</dd></div>
+          <div><dt>Category</dt><dd>{{ page.category }}</dd></div>
+          <div><dt>Focus</dt><dd>{{ page.focus }}</dd></div>
+          <div><dt>Stack</dt><dd>{{ page.stack }}</dd></div>
+        </dl>
+      </div>
+    </div>
+  </header>
+
+  <section class="case-overview">
+    <div class="container case-overview__grid">
+      <p class="section-index">Project overview</p>
+      <div>
+        <h2>{{ page.headline }}</h2>
+        {% for paragraph in page.description %}
+        <p>{{ paragraph }}</p>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  {% if page.highlights %}
+  <section class="case-highlights">
+    <div class="container">
+      {% for highlight in page.highlights %}
+      <article><span>0{{ forloop.index }}</span><h3>{{ highlight.title }}</h3><p>{{ highlight.text }}</p></article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <section class="case-gallery" aria-labelledby="gallery-title">
+    <div class="container">
+      <div class="case-gallery__heading">
+        <div><p class="section-index">Interface gallery</p><h2 id="gallery-title">The product,<br><em>screen by screen.</em></h2></div>
+        <p>{{ page.images.size }} interface views</p>
+      </div>
+      <div class="case-gallery__grid case-gallery__grid--{{ page.gallery | default: 'mobile' }}">
+        {% for image in page.images %}
+        <figure{% if image.featured %} class="is-featured"{% endif %}>
+          <button class="case-gallery__image" type="button" data-gallery-image aria-label="Enlarge {{ image.alt }}">
+            <img src="{{ image.src | relative_url }}" alt="{{ image.alt }}" loading="lazy">
+          </button>
+          <figcaption><span>{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>{{ image.caption | default: page.title }}</figcaption>
+        </figure>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <dialog class="image-viewer" data-image-viewer aria-label="Screenshot viewer">
+    <button class="image-viewer__close" type="button" data-viewer-close aria-label="Close image viewer">×</button>
+    <button class="image-viewer__control image-viewer__control--previous" type="button" data-viewer-previous aria-label="Previous screenshot">←</button>
+    <figure><img data-viewer-image alt=""><figcaption data-viewer-caption></figcaption></figure>
+    <button class="image-viewer__control image-viewer__control--next" type="button" data-viewer-next aria-label="Next screenshot">→</button>
+  </dialog>
+
+  <nav class="case-next" aria-label="More projects">
+    <div class="container">
+      <p>Continue exploring</p>
+      <a href="{{ page.next_url | relative_url }}"><span>Next case study</span><strong>{{ page.next_title }}</strong><i>↗</i></a>
+    </div>
+  </nav>
+</main>

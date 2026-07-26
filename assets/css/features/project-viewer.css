@@ -1,0 +1,28 @@
+@media (max-width: 680px) {
+  .image-viewer {
+    padding: 55px 12px 20px;
+  }
+
+  .image-viewer[open] {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .image-viewer__control {
+    position: absolute;
+    bottom: 20px;
+    z-index: 2;
+  }
+
+  .image-viewer__control--previous {
+    left: 20px;
+  }
+
+  .image-viewer__control--next {
+    right: 20px;
+  }
+
+  .image-viewer figure img {
+    max-height: calc(100vh - 145px);
+  }
+}

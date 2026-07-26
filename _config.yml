@@ -4,6 +4,16 @@ url: "https://jhalto.github.io"
 lang: "en"
 plugins:
   - jekyll-seo-tag
+collections:
+  projects:
+    output: true
+    permalink: /work/:name/
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
 exclude:
   - README.md
   - LICENSE

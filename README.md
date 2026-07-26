@@ -20,7 +20,12 @@ their markup, and shared shell components remain independent.
 │       ├── footer.html
 │       └── header.html
 ├── _layouts/
-│   └── default.html
+│   ├── default.html
+│   └── project.html
+├── _projects/
+│   ├── bdtender.md
+│   ├── sahayagi.md
+│   └── ...
 ├── assets/
 │   ├── css/
 │   │   └── main.css
@@ -48,6 +53,8 @@ features → no cross-feature dependencies
 ## Making changes
 
 - Add or edit homepage content in `_includes/features`.
+- Add project content, links, and screenshots in `_projects`.
+- The shared `_layouts/project.html` renders every project case study.
 - Put site-wide shell UI in `_includes/shared`.
 - Keep feature behavior in `assets/js/features`.
 - Keep reusable utilities in `assets/js/shared`.
