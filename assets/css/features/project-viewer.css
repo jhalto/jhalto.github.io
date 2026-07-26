@@ -1,3 +1,33 @@
+/* Screenshot clipping removes black pixels around rounded device captures. */
+.project__screens img {
+  border-radius: 24px;
+  clip-path: inset(0 round 24px);
+}
+
+.case-gallery__image {
+  overflow: hidden;
+}
+
+.case-gallery img {
+  border-radius: 9% / 4%;
+  clip-path: inset(0 round 9% 9% 4% 4%);
+}
+
+.case-gallery__grid--mobile .is-featured img {
+  border-radius: 16px;
+  clip-path: inset(0 round 16px);
+}
+
+.windows-gallery img {
+  border-radius: 16px;
+  clip-path: inset(0 round 16px);
+}
+
+.image-viewer figure img {
+  border-radius: 22px;
+  clip-path: inset(0 round 22px);
+}
+
 @media (max-width: 680px) {
   .image-viewer {
     padding: 55px 12px 20px;
@@ -24,5 +54,10 @@
 
   .image-viewer figure img {
     max-height: calc(100vh - 145px);
+  }
+
+  .project__screens img {
+    border-radius: 14px;
+    clip-path: inset(0 round 14px);
   }
 }
