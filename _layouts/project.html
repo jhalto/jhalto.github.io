@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<main id="main-content" class="case-study">
+<main id="main-content" class="case-study case-study--{{ page.slug }}">
   <header class="case-hero">
     <div class="container">
       <a class="case-back" href="{{ '/#work' | relative_url }}"><span>←</span> Back to selected work</a>
@@ -61,7 +61,7 @@ layout: default
       <div class="case-gallery__grid case-gallery__grid--{{ page.gallery | default: 'mobile' }}">
         {% for image in page.images %}
         <figure{% if image.featured %} class="is-featured"{% endif %}>
-          <button class="case-gallery__image" type="button" data-gallery-image aria-label="Enlarge {{ image.alt }}">
+          <button class="case-gallery__image" type="button" data-gallery-image{% if page.slug == 'bdtender' and image.featured != true %} data-rounded-mobile{% endif %} aria-label="Enlarge {{ image.alt }}">
             <img src="{{ image.src | relative_url }}" alt="{{ image.alt }}" loading="lazy">
           </button>
           <figcaption><span>{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>{{ image.caption | default: page.title }}</figcaption>

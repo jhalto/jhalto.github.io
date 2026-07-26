@@ -13,6 +13,7 @@ export function initProjectGallery() {
     const source = trigger.querySelector('img');
     viewerImage.src = source.currentSrc || source.src;
     viewerImage.alt = source.alt;
+    viewerImage.classList.toggle('is-rounded-mobile', trigger.hasAttribute('data-rounded-mobile'));
     viewerCaption.textContent = `${activeIndex + 1} / ${triggers.length} — ${source.alt}`;
   };
 
