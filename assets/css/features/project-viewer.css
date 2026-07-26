@@ -15,6 +15,7 @@
   font-size: 14px;
   line-height: 1.2;
   letter-spacing: -0.025em;
+  white-space: nowrap;
 }
 
 .brand__identity small {
@@ -51,9 +52,9 @@
 
 @media (max-width: 680px) {
   .brand__identity strong {
-    max-width: 120px;
-    font-size: 11px;
-    white-space: normal;
+    max-width: none;
+    font-size: 10.5px;
+    white-space: nowrap;
   }
 
   .brand__identity small {
