@@ -1,6 +1,6 @@
 ---
 title: News App
-index: "05"
+index: "06"
 platform: Mobile
 category: Media
 focus: News discovery

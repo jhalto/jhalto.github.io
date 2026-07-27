@@ -1,6 +1,6 @@
 ---
 title: Music App
-index: "06"
+index: "07"
 platform: Mobile
 category: Media
 focus: Audio experience
